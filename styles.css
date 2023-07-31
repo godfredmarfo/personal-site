@@ -1,0 +1,19 @@
+body {
+    background-color: #43dbdb;
+}
+
+hr {
+    width: 5%;
+    border-width: 5px;
+    border-color: grey;
+        border-top-style: dotted;
+    }
+
+div {
+  border-radius: 5px;
+  padding: 20px;
+}
+
+input {
+  background-color: #45a049;
+}
